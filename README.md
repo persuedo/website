@@ -7,7 +7,7 @@ This is my personal website project, a portfolio and creative space I designed a
 - **Home Page:** Introduces me and what inspired me to start coding.  
 - **Portfolio Page:** Highlights my coding projects and experiences, including my website itself.  
 - **Reading Corner:** Shares my book recommendations and includes a BuzzFeed-style quiz that helps users find their perfect genre match.  
-- **STEM 4 ALL Page:** Offers resources for high school students — scholarships, internships, and educational programs — to make opportunities in tech more accessible.
+- **STEM 4 ALL Page:** Offers resources for high school students: scholarships, internships, and educational programs, to make opportunities in tech more accessible.
 
 ## Features
 - Navigation bar included on all pages for smooth browsing.  
